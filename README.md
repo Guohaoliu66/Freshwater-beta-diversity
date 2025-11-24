@@ -1,3 +1,11 @@
-# Introduction
+# Data and Code for
 
-This project supports a global-scale study of turnover and nestedness of beta diversity in freshwaters. 
+This repository contains the data and R code used in the manuscript:
+**"Nutrient and land use heterogeneity drive taxonomic and functional β-diversity components in freshwaters"**.
+
+**Review status:** This repository is currently shared solely for peer review.
+
+---
+
+## Repository Structure
+
