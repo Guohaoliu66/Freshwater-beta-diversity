@@ -7,12 +7,12 @@ This repository contains the data and R code used in the manuscript:
 
 ---
 
-# Repository Structure
+# File structure
 
 ## All scripts
 This directory contains all R scripts used for data processing, statistical analyses, and figure generation in the manuscript
 
 ## Input_file
-dataset_var.csv
-Dataset-level explanatory variable used in the models.
+This directory contains all input data
+* dataset_var.csv: Dataset-level explanatory variable used in the models.
 
