@@ -29,5 +29,5 @@ This directory contains all input data
 
 
 ## Note  
-All "raw_data" and the `output_file` directory will be made publicly available upon acceptance of the manuscript.  
+The `raw_data` and the `output_file` directory will be made publicly available upon acceptance of the manuscript.  
 At this stage, these data is shared solely for peer review.
