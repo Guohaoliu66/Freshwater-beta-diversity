@@ -11,8 +11,7 @@ This repository is currently shared exclusively for peer review.
 
 ### `all_scripts/`
 This directory contains all R scripts used for data processing, statistical analyses, and figure generation in the manuscript.
-- `0.0_calculation_beta`  
-  Functions of calculation of taxonomic and functional β-diversity metrics.
+- `0.0_calculation_beta`    Functions of calculation of taxonomic and functional β-diversity metrics.
 
 - `1.0_data_compilation_td`  
   Compile taxonomic diversity data alongside all predictor variables
