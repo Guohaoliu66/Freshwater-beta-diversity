@@ -1,4 +1,4 @@
-# Data and Code for
+# Freshwater-beta-diversity
 
 This repository contains the data and R code used in the manuscript:
 **"Nutrient enrichment and land-use change homogenize species and trait composition in freshwaters"**.
@@ -7,9 +7,9 @@ This repository contains the data and R code used in the manuscript:
 
 ---
 
-# File structure
+## File structure
 
-## All scripts
+### All scripts
 This directory contains all R scripts used for data processing, statistical analyses, and figure generation in the manuscript.
 * 0.0 calcultaion_beta
 * 1.0 data_compilation_td
@@ -20,7 +20,7 @@ This directory contains all R scripts used for data processing, statistical anal
 * 3.2 plot_figure_4
 * 3.3 plot_figure_S1-S3
 
-## Input_file
+### Input_file
 This directory contains all input data
 * dataset_var.csv: Dataset-level explanatory variable used in the models.
 * world_shp: World map base layers used to generate Figure S1 (global distribution of study sites).
@@ -28,6 +28,6 @@ This directory contains all input data
 * Climate data was obtained from the WorldClim v2 database.
 
 
-**Note:**  
+## Note  
 All raw data and the `output_file` directory will be made publicly available upon acceptance of the manuscript.  
 At this stage, these data is shared solely for peer review.
