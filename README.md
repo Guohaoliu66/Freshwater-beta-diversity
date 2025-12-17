@@ -24,4 +24,5 @@ This directory contains all R scripts used for data processing, statistical anal
 This directory contains all input data
 * dataset_var.csv: Dataset-level explanatory variable used in the models.
 * world_shp: World map base layers used to generate Figure S1 (global distribution of study sites).
-
+* Land-use data was derived from the Global Dynamic Land Cover dataset.
+* Climate data was obtained from the WorldClim v2 database.
