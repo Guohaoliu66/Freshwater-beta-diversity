@@ -10,9 +10,18 @@ This repository contains the data and R code used in the manuscript:
 # File structure
 
 ## All scripts
-This directory contains all R scripts used for data processing, statistical analyses, and figure generation in the manuscript
+This directory contains all R scripts used for data processing, statistical analyses, and figure generation in the manuscript.
+* 0.0 calcultaion_beta
+* 1.0 data_compilation_td
+* 1.1 data_compilation_fd
+* 2.0 brm_model
+* 3.0 plot_figure_2
+* 3.1 plot_figure_3
+* 3.2 plot_figure_4
+* 3.3 plot_figure_S1-S3
 
 ## Input_file
 This directory contains all input data
 * dataset_var.csv: Dataset-level explanatory variable used in the models.
+* world_shp: World map base layers used to generate Figure S1 (global distribution of study sites).
 
