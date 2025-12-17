@@ -11,22 +11,22 @@ This repository is currently shared exclusively for peer review.
 
 ### `all_scripts/`
 This directory contains all R scripts used for data processing, statistical analyses, and figure generation in the manuscript.
-- `0.0_calculation_beta/`  
+- `0.0_calculation_beta`  
   Functions of calculation of taxonomic and functional β-diversity metrics.
 
-- `1.0_data_compilation_td/`  
+- `1.0_data_compilation_td`  
   Compile taxonomic diversity data alongside all predictor variables
 
-- `1.1_data_compilation_fd/`  
+- `1.1_data_compilation_fd`  
   Compile functional diversity data alongside all predictor variables
 
 - `2.0_brm_model/`  
   Bayesian modeling using **brms**.
 
-- `3.0_plot_figure_2/`  
-- `3.1_plot_figure_3/`  
-- `3.2_plot_figure_4/`  
-- `3.3_plot_figure_S1-S3/`  
+- `3.0_plot_figure_2`  
+- `3.1_plot_figure_3`  
+- `3.2_plot_figure_4`  
+- `3.3_plot_figure_S1-S3`  
   Scripts used to generate main-text and supplementary figures.
 
 ### `input_file/`
