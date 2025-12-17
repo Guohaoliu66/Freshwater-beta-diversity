@@ -1,32 +1,45 @@
 # Freshwater-beta-diversity
 ---
 ## Description
-This repository contains the data and R code used in the manuscript:
+This repository contains the data and R scripts used in the manuscript:
 **"Nutrient enrichment and land-use change homogenize species and trait composition in freshwaters"**.
 
-**Review status:** This repository is currently shared solely for peer review.
-
+**Review status:** 
+This repository is currently shared exclusively for peer review.
 
 ## File structure
 
-### All scripts
+### `all_scripts/`
 This directory contains all R scripts used for data processing, statistical analyses, and figure generation in the manuscript.
-* 0.0 calcultaion_beta
-* 1.0 data_compilation_td
-* 1.1 data_compilation_fd
-* 2.0 brm_model
-* 3.0 plot_figure_2
-* 3.1 plot_figure_3
-* 3.2 plot_figure_4
-* 3.3 plot_figure_S1-S3
+- `0.0_calculation_beta/`  
+  Calculation of taxonomic and functional β-diversity metrics.
 
-### Input_file
-This directory contains all input data
-* dataset_var.csv: Dataset-level explanatory variable used in the models.
-* world_shp: World map base layers used to generate Figure S1 (global distribution of study sites).
-* Land-use data was derived from the Global Dynamic Land Cover dataset.
-* Climate data was obtained from the WorldClim v2 database.
+- `1.0_data_compilation_td/`  
+  Compilation and preprocessing of taxonomic diversity data.
 
+- `1.1_data_compilation_fd/`  
+  Compilation and preprocessing of functional trait data.
+
+- `2.0_brm_model/`  
+  Bayesian modeling using **brms**.
+
+- `3.0_plot_figure_2/`  
+- `3.1_plot_figure_3/`  
+- `3.2_plot_figure_4/`  
+- `3.3_plot_figure_S1-S3/`  
+  Scripts used to generate main-text and supplementary figures.
+
+### `input_file/`
+- `dataset_var.csv`  
+  Dataset-level explanatory variables used in the models.
+
+- `world_shp/`  
+  World map base layers used to generate Figure S1 (global distribution of study sites).
+
+- **Land-use data** were derived from the *Global Dynamic Land Cover* dataset.  
+- **Climate data** were obtained from the *WorldClim v2* database.
+
+---
 
 ## Note  
 The `raw_data` and the `output_file` directory will be made publicly available upon acceptance of the manuscript.  
