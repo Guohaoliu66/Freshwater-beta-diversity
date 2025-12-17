@@ -17,7 +17,7 @@ This directory contains all R scripts used for data processing, statistical anal
 
 - `1.1_data_compilation_fd`    Compile functional diversity data alongside all predictor variables
 
-- `2.0_brm_model/`    Bayesian modeling using **brms**.
+- `2.0_brm_model`    Bayesian modeling using **brms**.
 
 - `3.0_plot_figure_2`  
 - `3.1_plot_figure_3`  
