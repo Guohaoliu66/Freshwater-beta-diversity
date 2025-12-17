@@ -7,12 +7,12 @@ This repository contains the data and R code used in the manuscript:
 
 ---
 
-## Repository Structure
+# Repository Structure
 
-# ALL SCRIPTS
+## ALL SCRIPTS
 This directory contains all R scripts used for data processing, statistical analyses, and figure generation in the manuscript
 
-# Input_file
+## Input_file
 dataset_var.csv
 Dataset-level explanatory variables, including nutrient indicators, land-use metrics, and other covariates used in the models.
 
