@@ -33,7 +33,7 @@ This directory contains all R scripts used for data processing, statistical anal
   World map base layers used to generate Figure S1 (global distribution of study sites).
 
 - **Land-use data** were derived from the [*Global Dynamic Land Cover* dataset.](https://land.copernicus.eu/en/products/global-dynamic-land-cover)  
-- **Climate data** were obtained from the [WorldClim v2](https://www.worldclim.org/data/worldclim21.html).
+- **Climate data** were obtained from the [*WorldClim v2*](https://www.worldclim.org/data/worldclim21.html).
 
 ### `output_figure/`
 - This directory contains all figures generated from the analyses, including both main-text and supplementary figures presented in the manuscript.  
