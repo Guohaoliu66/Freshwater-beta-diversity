@@ -40,8 +40,8 @@ This directory contains all R scripts used for data processing, statistical anal
 - **Climate data** were obtained from the *WorldClim v2* database.
 
 ### `output_figure/`
-This directory contains all figures generated from the analyses, including both main-text and supplementary figures presented in the manuscript.  
-Figures are organized and named to correspond to figure numbers in the manuscript.
+- This directory contains all figures generated from the analyses, including both main-text and supplementary figures presented in the manuscript.  
+  Figures are organized and named to correspond to figure numbers in the manuscript.
 ---
 
 ## Note  
