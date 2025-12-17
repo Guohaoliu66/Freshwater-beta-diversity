@@ -26,3 +26,7 @@ This directory contains all input data
 * world_shp: World map base layers used to generate Figure S1 (global distribution of study sites).
 * Land-use data was derived from the Global Dynamic Land Cover dataset.
 * Climate data was obtained from the WorldClim v2 database.
+* 
+**Note:**  
+All raw data and the `output_file` directory will be made publicly available upon acceptance of the manuscript.  
+At this stage, these data is shared solely for peer review.
